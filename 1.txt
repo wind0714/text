@@ -1,0 +1,9 @@
+日安
+這是測試
+git push -u origin master
+git log --oneline --all --decorate --graph // 確認git的情況
+touct *.*
+git checkout *.*  //回該檔案的上一步
+git branch   //確認目前支流位
+git checkout -b 建立的分支名
+git merge *****  // ＊＊＊是指要被合掉的分支名
