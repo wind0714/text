@@ -9,3 +9,8 @@ git branch   //確認目前支流位
 git checkout -b 建立的分支名
 git merge *****  // ＊＊＊是指要被合掉的分支名
 git clone https://github.com/wind0714/text.git  //這是上去拿資料下來
+  
+
+
+
+hello~~~!!
