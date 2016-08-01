@@ -1,5 +1,6 @@
 日安
 這是測試
+git remote add origin https://github.com/wind0714/text.git
 git push -u origin master
 git log --oneline --all --decorate --graph // 確認git的情況
 touct *.*
