@@ -14,6 +14,7 @@ git clone https://github.com/wind0714/text.git  //這是上去拿資料下來
 
 
 hello~~~!!
+
 git pull origin master  //這句是用來向雲端捉存下來的正確檔來用
 
 
@@ -168,3 +169,4 @@ qv98nhjkvjrnlgvsmkyjt;l
 c2hejklfhmdalmvfj;vls,k56dv
 vwajtlmkvfjdnzfvjesl;nvtaj4oa4
 ahtvi4mchalfmvatv4aw'vmtseiholn5
+0c8ec670c13584685bd250b16f80f9ede27eddc4
